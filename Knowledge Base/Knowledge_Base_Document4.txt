@@ -1,0 +1,64 @@
+# Nova Scotia Wait Time Information Website
+
+## Service Overview
+The Nova Scotia Wait Time Information website is an official provincial resource that provides wait time information for various healthcare services across Nova Scotia. It allows patients to access current wait time data to help make informed decisions about where to seek care.
+
+## Website URL
+https://waittimes.novascotia.ca/
+
+## Key Features
+- Searchable database of wait times for different healthcare services
+- Ability to compare wait times between facilities
+- Information organized by medical procedures and geographic locations
+- Options to find the shortest wait times for specific services
+- Tools to help identify potential options for reducing wait time
+
+## How to Use
+1. Visit the website
+2. Search by keyword if you know what you're looking for
+3. Or browse through category/procedure lists to find relevant services
+4. View wait time information for different facilities
+5. Compare options to find the shortest wait times
+
+## Types of Information Available
+- Emergency department wait times
+- Surgical procedure wait times
+- Diagnostic imaging wait times (CT scans, MRIs, etc.)
+- Specialist appointment wait times
+- Other medical procedures and services
+
+## Value for Halifax Regional Municipality Residents
+This resource allows HRM residents to:
+- Check current ED wait times at multiple hospitals
+- Compare wait times between facilities before deciding where to go
+- Make informed decisions about non-emergency care
+- Find alternatives with shorter wait times when appropriate
+
+## Important Notes
+- Wait times are estimates and subject to change based on patient volume and acuity
+- For medical emergencies, residents should always call 911 or go to the nearest ED
+- The website does not allow booking appointments or reserving spots in line
+- Information is updated regularly but may not reflect sudden changes in demand
+
+## When to Use
+This resource is most helpful when:
+- Planning non-emergency healthcare visits
+- Deciding between multiple facilities for the same service
+- Looking for locations with shorter wait times for specific procedures
+- Trying to understand typical wait times for different services
+
+Historical ED Wait Times (Nova Scotia Health Averages)
+
+Halifax Infirmary:
+- Average: 3.5 hours
+- Range: 2–6 hours
+- Busiest Times: 5–10 PM weekdays, Saturday mornings
+
+Dartmouth General:
+- Average: 2.5 hours
+- Range: 1.5–4 hours
+- Busiest: Sunday afternoons, weekday evenings
+
+Tips:
+- EDs are usually quieter between 2–7 AM
+- Monday and Friday are often busier than mid-week

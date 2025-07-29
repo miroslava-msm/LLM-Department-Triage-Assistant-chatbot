@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Nova Scotia Rehabilitation Centre",
+    "url": "https://www.nshealth.ca/rehabilitation",
+    "category": "rehabilitation",
+    "description": "Physical rehabilitation services for brain injury, spinal cord injury, and complex medical conditions.",
+    "location": "QEII Health Sciences Centre, Halifax",
+    "contact": {
+      "phone": [
+        "902-473-3818"
+      ]
+    },
+    "referral_info": "Physician referral required",
+    "hours": "Monday to Friday, 8:00 AM to 4:00 PM",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring medical records",
+      "Comfortable clothing"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535971",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health",
+    "parking_info": "Limited on-site parking available. Public parking nearby.",
+    "accessibility": "Wheelchair accessible. Elevator access available.",
+    "public_transit": "Accessible by Halifax Transit bus routes."
+  }
+]

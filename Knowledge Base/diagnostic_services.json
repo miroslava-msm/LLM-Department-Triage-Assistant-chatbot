@@ -1,0 +1,34 @@
+[
+  {
+    "name": "QEII Diagnostic Imaging",
+    "url": "https://www.nshealth.ca/diagnostic-imaging",
+    "category": "diagnostic",
+    "description": "Comprehensive imaging services including X-ray, CT, MRI, and ultrasound.",
+    "location": "Multiple buildings at QEII Health Sciences Centre",
+    "contact": {
+      "phone": [
+        "902-473-2700"
+      ]
+    },
+    "referral_info": "Physician referral required for most imaging",
+    "hours": "Monday to Friday, 7:00 AM to 5:00 PM (emergency imaging 24/7)",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring referral",
+      "Fast if required",
+      "Arrive 15 minutes early"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535965",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health",
+    "parking_info": "Limited on-site parking available. Public parking nearby.",
+    "accessibility": "Wheelchair accessible. Elevator access available.",
+    "public_transit": "Accessible by Halifax Transit bus routes."
+  }
+]

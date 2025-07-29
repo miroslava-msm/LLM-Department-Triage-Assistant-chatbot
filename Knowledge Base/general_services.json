@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Victoria General Hospital",
+    "url": "https://www.nshealth.ca/locations-and-facilities/qeii-health-sciences-centre",
+    "category": "general",
+    "description": "Inpatient and outpatient services including surgery, medicine, and specialty clinics.",
+    "location": "Victoria Building, 1276 South Park Street, Halifax",
+    "contact": {
+      "phone": [
+        "902-473-2700"
+      ]
+    },
+    "referral_info": "Varies by service - most require physician referral",
+    "hours": "Varies by department",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring referral if applicable",
+      "Check specific department requirements"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535968",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health"
+  }
+]

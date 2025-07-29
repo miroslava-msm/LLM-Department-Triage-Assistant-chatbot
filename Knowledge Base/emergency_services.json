@@ -1,0 +1,33 @@
+[
+  {
+    "name": "QEII Emergency Department",
+    "url": "https://www.nshealth.ca/locations-and-facilities/qeii-health-sciences-centre",
+    "category": "emergency",
+    "description": "The Charles V. Keating Emergency and Trauma Centre at QEII Health Sciences Centre provides 24/7 emergency care.",
+    "location": "Halifax Infirmary, 1796 Summer Street, Halifax, NS",
+    "contact": {
+      "phone": [
+        "902-473-2700"
+      ]
+    },
+    "referral_info": "No referral required for emergency services",
+    "hours": "24 hours, 7 days a week",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring list of current medications",
+      "Bring emergency contact information"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535938",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health",
+    "parking_info": "Limited on-site parking available. Public parking nearby.",
+    "accessibility": "Wheelchair accessible. Elevator access available.",
+    "public_transit": "Accessible by Halifax Transit bus routes."
+  }
+]

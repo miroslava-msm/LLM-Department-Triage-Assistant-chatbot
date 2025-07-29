@@ -1,0 +1,40 @@
+# Mobile Primary Care Clinics - Nova Scotia Health
+
+## Service Overview
+Mobile Primary Care Clinics are temporary services established by Nova Scotia Health to bridge gaps in primary care services across the province. These clinics provide non-urgent, low-acuity healthcare services to communities experiencing primary care shortages.
+
+## Website URL
+https://www.nshealth.ca/mobileprimarycareclinics
+
+## Services Offered
+- Treatment for non-urgent, minor health issues
+- Prescription refills or renewals (except controlled substances)
+- Basic primary care services
+
+## How It Works
+- No appointment necessary (walk-in service)
+- Bring your health card and list of current medications
+- Care provided by a team including nurse practitioners and family physicians
+- Patients seen in a clinic environment
+
+## Important Limitations
+- Cannot address emergency medical issues
+- Lab and diagnostic imaging requisitions not available
+- Not a substitute for a regular primary care provider
+- Cannot prescribe controlled substances
+
+## Locations in HRM
+- Check the website for current mobile clinic locations, as they may change based on community needs
+
+## Important Notes
+- These clinics do not offer emergency services
+- For emergencies, call 911 or go to the nearest Emergency Department
+- These are temporary services to address gaps in care
+- If you have a primary care provider, you should continue to see them for your healthcare needs
+
+## When to Use
+These clinics are appropriate for:
+- Minor health concerns when you don't have a family doctor
+- Prescription refills for non-controlled medications
+- Basic healthcare needs that don't require emergency services
+- Non-urgent medical issues that need attention before you can be connected with a permanent primary care provider

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Halifax Infirmary Mental Health",
+    "url": "https://www.nshealth.ca/mental-health-and-addictions",
+    "category": "mental_health",
+    "description": "Mental health services including crisis intervention, outpatient care, and support.",
+    "location": "Abbie J. Lane Memorial Building, QEII Health Sciences Centre",
+    "contact": {
+      "phone": [
+        "902-473-7867"
+      ],
+      "crisis": [
+        "1-888-429-8167"
+      ]
+    },
+    "referral_info": "Some services available without referral, others require physician referral",
+    "hours": "Crisis services: 24/7, Regular services: Monday to Friday",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring support person if helpful",
+      "List current medications"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535962",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health",
+    "parking_info": "Limited on-site parking available. Public parking nearby.",
+    "accessibility": "Wheelchair accessible. Elevator access available.",
+    "public_transit": "Accessible by Halifax Transit bus routes."
+  }
+]

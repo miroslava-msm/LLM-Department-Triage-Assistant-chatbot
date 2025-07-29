@@ -1,0 +1,64 @@
+[
+  {
+    "name": "QEII Cardiology",
+    "url": "https://www.nshealth.ca/clinics-programs-and-services",
+    "category": "specialty",
+    "description": "Comprehensive cardiac care including consultations, diagnostics, and treatment.",
+    "location": "QEII Health Sciences Centre, Halifax",
+    "contact": {
+      "phone": [
+        "902-473-2700"
+      ]
+    },
+    "referral_info": "Referral required from family physician",
+    "hours": "Monday to Friday, business hours",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring referral letter",
+      "List of medications"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535956",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health",
+    "parking_info": "Limited on-site parking available. Public parking nearby.",
+    "accessibility": "Wheelchair accessible. Elevator access available.",
+    "public_transit": "Accessible by Halifax Transit bus routes."
+  },
+  {
+    "name": "Nova Scotia Cancer Centre",
+    "url": "https://www.nshealth.ca/locations-and-facilities/qeii-health-sciences-centre",
+    "category": "specialty",
+    "description": "Comprehensive cancer care including diagnosis, treatment, and support services.",
+    "location": "Dickson Building, QEII Health Sciences Centre, Halifax",
+    "contact": {
+      "phone": [
+        "902-473-6000"
+      ]
+    },
+    "referral_info": "Referral required from physician",
+    "hours": "Monday to Friday, 8:00 AM to 4:30 PM",
+    "is_central_zone": true,
+    "preparation": [
+      "Bring health card",
+      "Bring all medical records",
+      "Arrive 30 minutes early"
+    ],
+    "scraped_at": "2025-07-10T02:51:21.535959",
+    "data_source": "manual_curation",
+    "health_card_required": true,
+    "msi_coverage": "Covered for Nova Scotia residents",
+    "emergency_number": "911",
+    "health_link": "811",
+    "main_hospital_phone": "902-473-2700",
+    "system": "Nova Scotia Health",
+    "parking_info": "Limited on-site parking available. Public parking nearby.",
+    "accessibility": "Wheelchair accessible. Elevator access available.",
+    "public_transit": "Accessible by Halifax Transit bus routes."
+  }
+]

@@ -1,0 +1,31 @@
+# Skip the Waiting Room - Nova Scotia Walk-in Clinics
+
+## Service Overview
+Skip the Waiting Room is an online platform that allows patients to find walk-in clinics in Nova Scotia and view their current wait times. The service helps patients avoid spending unnecessary time in waiting rooms by providing real-time information about clinic availability.
+
+## Website URL
+https://skipthewaitingroom.com/region/ns
+
+## Key Features
+- Lists walk-in clinics across Nova Scotia
+- Provides real-time wait time information when available
+- Shows clinic operating hours
+- Displays contact information for clinics
+
+## How It Works
+1. Users visit the website or use the mobile app
+2. They can browse available clinics in their area
+3. For some clinics, they can see current wait times
+4. Users can plan their visit accordingly
+
+## Important Notes
+- Some clinics require in-person registration even if listed on the site
+- The service provides a clear reminder that for medical emergencies, people should call 911
+- Not all clinics in Nova Scotia are listed on this service
+- Wait times are estimates and may change
+
+## Value for Halifax Regional Municipality Residents
+This service can help HRM residents make informed decisions about where to seek non-emergency care, potentially avoiding long waits at emergency departments for non-urgent conditions.
+
+## When to Use
+This resource is most appropriate for non-emergency medical concerns when a primary care provider is unavailable.

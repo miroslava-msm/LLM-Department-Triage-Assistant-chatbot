@@ -1,0 +1,46 @@
+
+# VirtualCareNS
+
+## Service Overview
+VirtualCareNS gives Nova Scotians virtual access to primary care providers (family doctors or nurse practitioners) through online appointments. It serves as a digital healthcare option for those without a primary care provider or as a supplementary service for those who have one.
+
+## Website URL
+https://www.nshealth.ca/clinics-programs-and-services/virtualcarens
+
+## Eligibility
+- Must have a valid Nova Scotia health card
+- Must be able to access the internet through a computer or mobile device
+- Must have an email address
+- Must be physically in Nova Scotia when accessing the service
+
+## Service Options
+1. Full Care (for those without a primary care provider):
+   - Unlimited access to virtual primary care
+   - Available to Nova Scotians on the Need a Family Practice Registry
+   - Can order tests and refer to specialists
+
+2. Basic Care:
+   - Available to all Nova Scotians
+   - Those with a primary care provider get two free visits per calendar year
+   - Provides basic healthcare advice and prescription renewals
+   - Cannot order tests or refer to specialists
+   - Available 24/7/365
+
+## How to Register
+1. If you don't have a primary care provider, register on the Need a Family Practice Registry:
+   - Online: https://needafamilypractice.nshealth.ca/
+   - By phone: Call 811 (Monday to Friday, 10 a.m. to 6 p.m.)
+2. Once registered, visit https://virtualcarens.ca and use your Nova Scotia health card to sign up
+
+## Important Notes
+- Service is free for eligible Nova Scotians
+- Children aged 15 and younger should be registered as dependents on their guardian's account
+- People aged 16 and older must create their own accounts
+- VirtualCareNS cannot prescribe controlled substances
+
+## When to Use
+This service is appropriate for:
+- Non-emergency health concerns
+- Prescription renewals (except controlled substances)
+- General health questions and advice
+- Minor illnesses that don't require in-person examination
